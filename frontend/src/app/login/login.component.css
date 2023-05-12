@@ -1,0 +1,11 @@
+button{
+  background: #00995D !important;
+  color: #00995D;
+}
+
+.loginCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
